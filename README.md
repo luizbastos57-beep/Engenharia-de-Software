@@ -21,7 +21,6 @@
 
 </p>
 
-<img align="right" alt="typing-gif" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
 
 Somos um grupo de estudantes desenvolvendo o **Marketplace App**, um sistema completo que integra requisitos, testes, modelagem UML e organização ágil.  
 Este repositório contém toda a documentação oficial do projeto final, apresentada de forma clara, objetiva e profissional.
