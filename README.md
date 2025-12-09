@@ -2,31 +2,11 @@
 
 <br>
 
-<p align="center">
-
-  <a href="#" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Perfil no LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-
-  <a href="mailto:email@gmail.com" style="text-decoration: none;">
-    <img alt="E-mail" title="Enviar e-mail" 
-         src="https://custom-icon-badges.demolab.com/badge/-Contato-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-
-  <a href="#" style="text-decoration: none;">
-    <img alt="Repositórios" title="Ver projetos no GitHub" 
-         src="https://custom-icon-badges.demolab.com/badge/-GitHub-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" />
-  </a>
-
-</p>
-
-
-Somos um grupo de estudantes desenvolvendo o **Marketplace App**, um sistema completo que integra requisitos, testes, modelagem UML e organização ágil.  
+O **Marketplace App**, um sistema completo que integra requisitos, testes, modelagem UML e organização ágil.  
 Este repositório contém toda a documentação oficial do projeto final, apresentada de forma clara, objetiva e profissional.
 
 O sistema tem como objetivo conectar compradores e vendedores em uma plataforma moderna, permitindo publicação de produtos, compras, acompanhamento de pedidos e avaliações.
-
+</br>
 ---
 
 # 📚 Documentação do Projeto
@@ -40,8 +20,6 @@ As principais histórias de usuário descrevem necessidades reais dos participan
 - 📦 Acompanhar pedidos  
 - ⭐ Avaliar produtos  
 
-📄 Arquivo: **`historias-de-usuario.md`**
-
 ---
 
 ## 🧪 Casos de Teste
@@ -53,8 +31,6 @@ Casos de teste funcionais garantindo a qualidade das principais funcionalidades:
 - Teste de atualização de status do pedido  
 - Teste de avaliações  
 
-📄 Arquivo: **`casos-de-teste.md`**
-
 ---
 
 ## 🧩 Diagramas UML
@@ -65,7 +41,6 @@ Diagramas essenciais para representação estrutural e comportamental do marketp
 - Diagrama de Atividades  
 - Diagrama de Sequência  
 
-📁 Pasta: **`/uml`**
 
 ---
 
@@ -80,7 +55,6 @@ Documento contendo visão estratégica do projeto:
 - **How:** Método de desenvolvimento  
 - **How Much:** Esforço estimado  
 
-📄 Arquivo: **`5W2H.md`**
 
 ---
 
@@ -93,7 +67,6 @@ Gerenciamento do desenvolvimento através de Kanban contendo:
 - Critérios de aceitação  
 - Status das tarefas  
 
-📌 **Link do Kanban:** _adicione aqui o link do Trello, Jira ou GitHub Projects_
 
 ---
 
